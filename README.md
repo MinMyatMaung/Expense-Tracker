@@ -1,4 +1,4 @@
-# 🧾 Expense Tracker (Tkinter GUI)
+# Expense Tracker (Tkinter GUI)
 
 An **Expense Tracker** application built using **Python and Tkinter**. It allows users to:
 
@@ -9,17 +9,17 @@ An **Expense Tracker** application built using **Python and Tkinter**. It allows
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📅 **Add Expenses** through a clean popup form
-- 💾 Expenses are saved to a `expenses.csv` file
-- 📋 **View Expenses** in a scrollable window, sorted by earliest date first
-- 📊 **Summary View** with total count and total amount spent
-- ✅ Automatically handles empty fields and invalid inputs
+- **Add Expenses** through a clean popup form
+- Expenses are saved to a `expenses.csv` file
+- **View Expenses** in a scrollable window, sorted by earliest date first
+- **Summary View** with total count and total amount spent
+- Automatically handles empty fields and invalid inputs
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Tkinter (built-in GUI library)
@@ -28,7 +28,7 @@ An **Expense Tracker** application built using **Python and Tkinter**. It allows
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Check if Python is installed (`python --version`)
 2. Run the app: python main.py
